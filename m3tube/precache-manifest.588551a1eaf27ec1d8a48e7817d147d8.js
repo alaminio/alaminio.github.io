@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "35bc4c23981cbb6dd08a6a1e184a32c7",
+    "revision": "9f73cf9c614b2e292a3702e954e98034",
     "url": "/m3tube/index.html"
   },
   {
-    "revision": "ad3a90b6d1eb290e8868",
+    "revision": "8e0963237095a4e5ab5a",
     "url": "/m3tube/static/css/main.16bb9f63.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/m3tube/static/js/2.7cdd5b5c.chunk.js.LICENSE"
   },
   {
-    "revision": "ad3a90b6d1eb290e8868",
-    "url": "/m3tube/static/js/main.4eff3c7a.chunk.js"
+    "revision": "8e0963237095a4e5ab5a",
+    "url": "/m3tube/static/js/main.fd866b07.chunk.js"
   },
   {
     "revision": "0f2b5aca57f2cb7fef97",

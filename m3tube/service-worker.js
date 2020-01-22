@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/m3tube/precache-manifest.efa43a64c02ea10b1babb01d595fabf3.js"
+  "/m3tube/precache-manifest.588551a1eaf27ec1d8a48e7817d147d8.js"
 );
 
 self.addEventListener('message', (event) => {
